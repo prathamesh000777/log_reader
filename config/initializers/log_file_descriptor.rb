@@ -1,0 +1,1 @@
+$log_file_descriptor = File.new('log.txt')
